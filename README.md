@@ -9,7 +9,7 @@ This knowledge will help you form your own opinion about the massively advancing
 
 - 💞️ I’m looking to collaborate on solutions that aims to rise awareness about the digital carbon footprint. 
 
-- 📫 You can reach me under hello@digitalecolgoy.xyz
+- 📫 You can reach me under hello@digitalecology.xyz
 
 <!---
 DigitalEcology/DigitalEcology is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
